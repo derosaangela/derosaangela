@@ -13,11 +13,6 @@ I build enterprise software systems and ship AI-integrated products that drive m
 Product Manager at Amazon leading the AI integration across EMEA and managing high-growth client portfolios.
 Previously Product Manager at AWS, driving £25M+ in savings through repair profitability logic and launching a new centralized software system across European sites.
 
-## 🛠️ Pinned Projects
-LiveSpec | DevTools
-Investing won’t make you rich | Fintech
-Synapse | SaaS
-
 ## ☁️ What's next
 Currently building AI tools and SaaS products.  
 Building what's next in AI Agents, RAG, or LLMs? I'd love to chat and share input
