@@ -16,3 +16,9 @@ Previously Product Manager at AWS, driving £25M+ in savings through repair prof
 ## ☁️ What's next
 Currently building AI tools and SaaS products.  
 Building what's next in AI Agents, RAG, or LLMs? I'd love to chat and share input
+
+## 🛠️ Pinned Projects
+* **LiveSpec** | *DevTools*
+* **Investing won’t make you rich** | *Fintech*
+* **Synapse** | *SaaS*
+* see below 
